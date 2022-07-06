@@ -26,6 +26,7 @@ gem 'psych', '< 4'
 gem "devise-i18n"
 gem "devise-bootstrap5"
 gem 'iex-ruby-client'
+gem "font-awesome-rails"
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
